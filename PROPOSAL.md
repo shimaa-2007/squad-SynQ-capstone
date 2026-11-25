@@ -22,3 +22,8 @@ Unlike general-purpose project management tools, TeamUp focuses on academic team
 ### Project Objective
 
 To improve collaboration, transparency, and accountability in university group projects by providing a structured environment where tasks, responsibilities, submissions, and individual contributions can be tracked and reviewed.
+## 3. Core MVP Features (Weeks 5–24 Roadmap)
+1. **Responsive Event Directory (Frontend UI):** Grid layout displaying campus events with category tags.
+2. **Saved Bookmarks & Preferences (Client State/BOM):** Using `localStorage` to save bookmarked events and theme settings across reloads.
+3. **Event Management (CRUD / REST API):** Creating, reading, updating, and deleting events via backend API calls.
+4. **Role-Based Access (Authentication):** Separate login flows for students and club organizers.
