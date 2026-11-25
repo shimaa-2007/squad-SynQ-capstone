@@ -1,1 +1,24 @@
 
+## 2. Problem Statement & Target Users
+
+### Problem Statement
+
+University students often face challenges when working on group projects, including unclear task responsibilities, unequal workload distribution, missed deadlines, scattered project files, and difficulties tracking individual contributions.
+
+Instructors also struggle to monitor team progress and evaluate each student's actual contribution fairly.
+
+TeamUp aims to solve these problems by providing a centralized platform for university project management, task assignment, progress tracking, evidence-based submissions, and contribution reporting.
+
+Unlike general-purpose project management tools, TeamUp focuses on academic teamwork, accountability, and documented student contributions.
+
+### Target Users
+
+| User | Needs |
+|---|---|
+| University Students | Manage assigned tasks, track deadlines, submit work, and document their contributions. |
+| Team Leaders | Organize projects, assign tasks, monitor progress, review submissions, and identify workload imbalances. |
+| Instructors / Teaching Assistants | Monitor project progress, review documented contributions, and support fair student evaluation. |
+
+### Project Objective
+
+To improve collaboration, transparency, and accountability in university group projects by providing a structured environment where tasks, responsibilities, submissions, and individual contributions can be tracked and reviewed.
